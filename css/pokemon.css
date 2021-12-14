@@ -1,0 +1,74 @@
+.mr-sm-6{
+    padding-right: 58px; 
+}
+
+.shift{
+    padding-left: 100px;
+}
+
+.col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+.col-lg-4 > h3{
+    font-size: 1.5em;
+}
+
+.col-lg-4 > p{
+    font-size: 1em;
+}
+
+.carousel-inner > .carousel-item{
+    min-width: 100%;
+}
+
+.navbar{
+    z-index: 20;
+}
+
+.container2{
+    position: absolute;
+    top: 0;
+}
+
+
+.container{
+    height: 100%;
+}
+
+.team{
+    padding-top: 500px;
+}
+
+hr{
+    background: black;
+    
+}
+
+.mickey{
+    text-align: center;
+    padding-top: 115px;
+}
+
+.col-lg-5{
+    text-align: center;
+}
+
+.top1{
+    margin-top: 40px;
+}
+
+.top2{
+    margin-top: 40px;
+}
+
+.shiftleft{
+    padding-right: 65px;
+}
+
+.shiftright{
+    padding-left: 55px;
+}
